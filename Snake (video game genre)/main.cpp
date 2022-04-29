@@ -1,7 +1,7 @@
 /*
 snake game
 author-Fahimul Karim
-2021
+2022
 
 */
 #include <iostream>
